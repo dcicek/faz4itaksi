@@ -1,0 +1,10 @@
+{
+  "tarife": {
+    "acilisU": "15",
+    "indiBindiU": "20",
+    "yuzMetrelikMesafeU": "0.5",
+    "birDakikaBeklemeU": "0.5",
+    "birSaatBeklemeU": "30",
+    "birKmMesafeU": "5"
+  }
+}
